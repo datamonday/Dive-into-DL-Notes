@@ -1175,34 +1175,9 @@ $$\mathrm{Var}[f(x)] = E\left[\left(f(x) - E[f(x)]\right)^2\right]$$
 - 期望和方差为概率分布的关键特征的概括提供了实用的度量形式。
 
 ---
+# 2. Linear Neural Networks
 
-
-
-
-
-```python
-
-```
-
-
-
-```python
-
-```
-
-```python
-
-```
-
-
-
-
-
-
-
-
-
----
+## 2.1 Linear Regression
 
 > video：[]()
 
